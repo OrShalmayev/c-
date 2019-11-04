@@ -12,5 +12,9 @@ int main(){
     int sum;
     sum = sumOfTwo(10,3);
     cout<<sum<<endl;
+
+
+
+    // because the data type of the function is integer
     return 0;
 }
